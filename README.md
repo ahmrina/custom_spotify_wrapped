@@ -10,7 +10,7 @@ A personalized dashboard of spotify listening habits, genre preferences and favo
 Request your own spotify extended data: https://www.spotify.com/us/account/privacy/
 
 ## Dashboard Overview
-
+![Dashboard Overview](custom_spotify_wrapped/dashboard.png)
 
 
 ## License
